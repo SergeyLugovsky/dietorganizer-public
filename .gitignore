@@ -1,0 +1,14 @@
+private/.env.php
+private/ServerDepl/.env.php
+private/firebase-service-account.json
+private/*service-account*.json
+public_html/.env.php
+public_html/storage/*
+!public_html/storage/logs/
+!public_html/storage/logs/.gitkeep
+public_html/storage/logs/*.log
+public_html/storage/logs/*.txt
+public_html/uploads/*
+!public_html/uploads/avatars/
+!public_html/uploads/avatars/.gitkeep
+mobile-app/android/app/google-services.json
