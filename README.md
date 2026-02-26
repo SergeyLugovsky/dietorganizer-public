@@ -66,3 +66,7 @@ Run every minute:
 3. Ensure `public_html/storage/logs/*.log` is not tracked.
 4. Run a quick scan:
    - `rg -n --hidden -S "(API_KEY|SECRET|TOKEN|PASSWORD|PRIVATE_KEY|BEGIN PRIVATE|ghp_)" .`
+
+## License
+This project is proprietary and released as `All Rights Reserved`.
+See [LICENSE](LICENSE).
