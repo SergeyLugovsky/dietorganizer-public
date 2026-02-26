@@ -61,7 +61,6 @@ Run every minute:
 1. Rotate credentials that were ever committed (DB password, VAPID private key, Firebase keys/service account).
 2. Verify local secret files are ignored:
    - `private/.env.php`
-   - `private/ServerDepl/.env.php`
    - `private/firebase-service-account.json`
    - `mobile-app/android/app/google-services.json`
 3. Ensure `public_html/storage/logs/*.log` is not tracked.
